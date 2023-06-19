@@ -6,7 +6,7 @@ I just took his tool and made a nice .app out of it.
 
 
 Setup steps.
-1. Download  Apple Configurator 2 from the Mac App store.
+1. Download Apple Configurator 2 from the Mac App store. https://apps.apple.com/us/app/apple-configurator-2/id1037126344?mt=12
 2. Launch Apple Configuration 2 and install the "Automation Tools".
 3. Download my DFU tool
 4. Download a .ipsw from Mr Macintosh https://mrmacintosh.com/apple-silicon-m1-full-macos-restore-ipsw-firmware-files-database/
