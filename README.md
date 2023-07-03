@@ -1,6 +1,7 @@
 # DFU_Tool
 Tool for putting a Apple Silicon Mac into DFU mode
-Full credit to BK for making the macvdmtool. 
+Full credit to Asahi Linux project for making the macvdmtool.
+https://asahilinux.org
 https://www.bkurtz.io/posts/macvdmtool/
 I just took his tool and made a nice .app out of it.
 
