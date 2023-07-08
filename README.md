@@ -9,7 +9,7 @@ I just took his tool and made a nice .app out of it.
 Setup steps.
 1. Download Apple Configurator 2 from the Mac App store. https://apps.apple.com/us/app/apple-configurator-2/id1037126344?mt=12
 2. Launch Apple Configuration 2 and install the "Automation Tools".
-3. Download my DFU tool https://github.com/kylejericson/DFU_Tool/archive/refs/tags/1.0.zip
+3. Download my DFU tool [https://github.com/kylejericson/DFU_Tool/archive/refs/tags/1.0.zip](https://github.com/kylejericson/DFU_Tool/files/11790108/DFU.zip)
 4. Download a .ipsw from Mr Macintosh https://mrmacintosh.com/apple-silicon-m1-full-macos-restore-ipsw-firmware-files-database/
 5. Connect your other Apple Silicon Mac via USB-C cable. A good write up about this on Step 5. https://mrmacintosh.com/restore-macos-firmware-on-an-apple-silicon-mac-boot-to-dfu-mode/
 6. Open my DFU tool and enter your admin password
